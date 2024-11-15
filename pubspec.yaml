@@ -1,0 +1,33 @@
+name: e_pelelangan_app
+description: "A Flutter application for online auctions."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.0.0 # Menambahkan provider untuk manajemen state
+  http: ^1.2.2 # Menambahkan http untuk permintaan jaringan
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Jika Anda memiliki aset gambar, tambahkan di sini
+  assets:
+    - assets/images/ # Pastikan untuk menambahkan folder gambar jika diperlukan
+    - assets/images/perhiasan/berlian.png
+    - assets/images/mobil/mobil.png
+    - assets/images/motor/r15.png
+    - assets/images/perhiasan/
+    - assets/images/mobil/
+    - assets/images/motor/
