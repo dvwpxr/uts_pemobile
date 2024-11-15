@@ -194,3 +194,4 @@ E-Pelelangan adalah sebuah aplikasi mobile yang dirancang untuk memfasilitasi pr
    - Integrasi dengan sistem notifikasi perangkat
 
 Dengan BRD ini, tim pengembangan memiliki panduan komprehensif untuk membangun aplikasi E-Pelelangan yang memenuhi kebutuhan bisnis dan pengguna, serta mematuhi standar keamanan dan hukum yang berlaku.
+# uts_pemobile
